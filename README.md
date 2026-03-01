@@ -4,7 +4,7 @@
 <h1 align="center">👋</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=cec2a8&center=true&vCenter=true&width=435&lines=Full-stack+Dev+in+progress;Pentesting+enthusiast;Always+stay+Open+Sourced;Great+mindset+=+never+give+up" alt="Live typing SVG" /> <!-- Some good ancient SVG typing animation i got not necessarily from a friend reference -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=d9b3e1center=true&vCenter=true&width=435&lines=Full-stack+Dev+in+progress;Pentesting+enthusiast;Always+stay+Open+Sourced;Great+mindset+=+never+give+up" alt="Live typing SVG" /> <!-- Some good ancient SVG typing animation i got not necessarily from a friend reference -->
 </div>
 
 ## 🔭 What i'm on about
@@ -46,14 +46,14 @@
 ## 📊 GitHub stats
 
 <div align="center">
-  <img height="180em" src="https://profile-stats-bay.vercel.app/api?username=ciz777&show_icons=true&theme=tokyonight&title_color=cec2a8&text_color=fff&icon_color=8E2DE2&show=prs_merged,prs_merged_percentage&hide=stars&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://profile-stats-bay.vercel.app/api/top-langs/?username=ciz777&theme=tokyonight&title_color=cec2a8&text_color=fff&exclude_repo=simple-keyboard,profile-stats,microarbiter,chungi&layout=compact&langs_count=8" alt="Top Languages" /> <!-- Reference from friend -->
+  <img height="180em" src="https://profile-stats-bay.vercel.app/api?username=cicervs&show_icons=true&theme=tokyonight&title_color=cec2a8&text_color=fff&icon_color=d9b3e1&show=prs_merged,prs_merged_percentage&hide=stars&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://profile-stats-bay.vercel.app/api/top-langs/?username=cicervs&theme=tokyonight&title_color=cec2a8&text_color=fff&exclude_repo=simple-keyboard,profile-stats,microarbiter,chungi&layout=compact&langs_count=8" alt="Top Languages" /> <!-- Reference from friend -->
 </div>
 
 ## 📈 Profile views
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ciz777&label=Profile%20Views&color=cec2a8&style=for-the-badge" alt="Profile Views" /> <!-- Also this is one -->
+  <img src="https://komarev.com/ghpvc/?username=ciz777&label=Profile%20Views&color=d9b3e1&style=for-the-badge" alt="Profile Views" /> <!-- Also this is one -->
 </div>
 
 ---
