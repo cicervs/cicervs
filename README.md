@@ -4,7 +4,7 @@
 <h1 align="center">👋</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=d9b3e1&center=true&vCenter=true&width=435&lines=Full-stack+Dev+in+progress;Pentesting+enthusiast;Always+stay+Open+Sourced;Great+mindset+=+never+give+up" alt="Live typing SVG" /> <!-- Some good ancient SVG typing animation i got not necessarily from a friend reference -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=d9b3e1&center=true&vCenter=true&width=435&lines=Full-stack+Dev+in+progress;Pentesting+enthusiast;Great+mindset+=+never+give+up" alt="Live typing SVG" /> <!-- Some good ancient SVG typing animation i got not necessarily from a friend reference -->
 </div>
 
 ## 🔭 What i'm on about
@@ -13,7 +13,6 @@
 - 📝 I’m currently learning **Rust**
 - 📫 How to reach me : 
   - Discord : **@cicervs** <!-- If you can see this, i'll maybe switch from Discord to somewhere else -->
-- ⚡ My way of living is to always stay **Open Sourced**
 
 ## 🛠️ Current knowledge
 
@@ -62,7 +61,7 @@
   
 ### 🤝 Socials
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/cicervs)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1451801894405279815)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cicervs)
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/cicervs)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@cicervs)
